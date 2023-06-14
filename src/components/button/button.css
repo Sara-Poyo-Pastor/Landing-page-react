@@ -1,0 +1,23 @@
+.download_apple{
+    font-size: 12px;
+    font-weight: 700;
+    border: 2px solid #ff556e;
+    border-radius: 20px;
+    padding: 5px;
+    background: #ff556e;
+    color: #f3fafb;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.download_apple a{
+    text-decoration: none;
+    color: #f3fafb;
+}
+
+#icono_apple{
+    height: 10px;
+    width: 15px;
+    vertical-align: middle;
+}
