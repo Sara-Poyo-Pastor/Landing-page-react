@@ -1,4 +1,4 @@
-.download_apple{
+.Button{
     font-size: 12px;
     font-weight: 700;
     border: 2px solid #ff556e;
@@ -20,4 +20,4 @@
     height: 10px;
     width: 15px;
     vertical-align: middle;
-}
+} 
